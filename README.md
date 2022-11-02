@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Youtune clone project
 
 This project is a Youtube clone. Client part is created using React App. api part is built with MongoDB & Node.js.
 
